@@ -11,6 +11,7 @@
 		1DCE841F2B1EF4A400C76FC5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DCE841E2B1EF4A400C76FC5 /* ContentView.swift */; };
 		1DCE84212B1EF4A500C76FC5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DCE84202B1EF4A500C76FC5 /* Assets.xcassets */; };
 		1DCE84242B1EF4A500C76FC5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DCE84232B1EF4A500C76FC5 /* Preview Assets.xcassets */; };
+		1DCE842B2B1EF50600C76FC5 /* Class1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DCE842A2B1EF50600C76FC5 /* Class1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		1DCE841E2B1EF4A400C76FC5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		1DCE84202B1EF4A500C76FC5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1DCE84232B1EF4A500C76FC5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		1DCE842A2B1EF50600C76FC5 /* Class1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Class1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				1DCE841C2B1EF4A400C76FC5 /* AnimationAppApp.swift */,
 				1DCE841E2B1EF4A400C76FC5 /* ContentView.swift */,
+				1DCE842A2B1EF50600C76FC5 /* Class1.swift */,
 				1DCE84202B1EF4A500C76FC5 /* Assets.xcassets */,
 				1DCE84222B1EF4A500C76FC5 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1DCE842B2B1EF50600C76FC5 /* Class1.swift in Sources */,
 				1DCE841F2B1EF4A400C76FC5 /* ContentView.swift in Sources */,
 				1DCE841D2B1EF4A400C76FC5 /* AnimationAppApp.swift in Sources */,
 			);
